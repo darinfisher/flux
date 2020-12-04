@@ -1,6 +1,7 @@
 # Flux - Influx data language
 
 [![CircleCI](https://circleci.com/gh/influxdata/flux/tree/master.svg?style=svg)](https://circleci.com/gh/influxdata/flux/tree/master)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdarinfisher%2Fflux.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdarinfisher%2Fflux?ref=badge_shield)
 
 
 Flux is a lightweight scripting language for querying databases (like InfluxDB) and working with data. It's part of InfluxDB 1.7 and 2.0, but can be run independently of those.
@@ -188,3 +189,7 @@ See the complete [documentation](https://v2.docs.influxdata.com/v2.0/query-data/
 Flux welcomes contributions to the language and the runtime.
 
 If you are interested in contributing, please read out [contributing readme](https://github.com/influxdata/flux/blob/master/CONTRIBUTING.md) for information about how to contribute.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdarinfisher%2Fflux.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdarinfisher%2Fflux?ref=badge_large)
